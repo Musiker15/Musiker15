@@ -9,7 +9,9 @@ If you have any Questions about my Scripts or have suggestions then feel free to
 Discord: https://discord.gg/5hHSBRHvJE
 
 ## My other Scripts
-* [[ESX] Armor Script - Usable Armor Vests](https://forum.cfx.re/t/release-esx-armor-script-usable-armor-vests-status-will-be-saved-in-database-and-restore-after-relog/4812243)
-* [[ESX] Weapon Ammunition with Clips, Components & Tints](https://forum.cfx.re/t/release-esx-weapon-ammunition-with-clips-components-tints/4793783)
-* [[ESX/QBCore] Simcard - Change your phonenumber](https://forum.cfx.re/t/release-esx-qbcore-usable-simcard/4847008)
-* [[ESX] Shopsystem - NativeUI & Database Feature](https://forum.cfx.re/t/release-esx-msk-shopsystem-nativeui-database-feature/4853593)
+* [[ESX] MSK Armor - Usable Armor Vests](https://forum.cfx.re/t/release-esx-armor-script-usable-armor-vests-status-will-be-saved-in-database-and-restore-after-relog/4812243)
+* [[ESX] MSK Banking - NativeUI](https://forum.cfx.re/t/release-esx-banking-with-nativeui/4859560)
+* [[ESX] MSK Deathcounter - integrated in myMultichar](https://forum.cfx.re/t/release-esx-msk-deathcounter-integrated-in-mymultichar/4863428)
+* [[ESX/QBCore] MSK Simcard - Change your phonenumber](https://forum.cfx.re/t/release-esx-qbcore-usable-simcard/4847008)
+* [[ESX] MSK Shopsystem - NativeUI & Database Feature](https://forum.cfx.re/t/release-esx-msk-shopsystem-nativeui-database-feature/4853593)
+* [[ESX] MSK WeaponAmmo - Clips, Components & Tints](https://forum.cfx.re/t/release-esx-weapon-ammunition-with-clips-components-tints/4793783)
