@@ -6,11 +6,9 @@ I am learning lua and python, this is what I did so far. Hope you like it!
 If you have any Questions about my Scripts or have suggestions then feel free to join my Discord :)
 
 ## MSK Scripts
-Tebex: https://mskscripts.tebex.io
-
-Discord: https://discord.gg/5hHSBRHvJE
-
-Decomentation: https://msk-scripts.gitbook.io/msk-scripts/msk-scripts/welcome
+* Tebex: https://mskscripts.tebex.io
+* Discord: https://discord.gg/5hHSBRHvJE
+* Decomentation: https://msk-scripts.gitbook.io/msk-scripts/msk-scripts/welcome
 
 ## My other Scripts
 #### PAID
