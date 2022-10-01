@@ -19,7 +19,7 @@ src="https://img.shields.io/twitch/status/musiker15?logo=twitchsx&style=for-the-
 ## MSK Scripts
 * Tebex: https://www.msk-scripts.de
 * Discord: https://discord.gg/5hHSBRHvJE
-* Documentation: https://msk-scripts.gitbook.io/msk-scripts/msk-scripts/welcome
+* Documentation: https://musiker15.gitbook.io/msk-scripts/msk-scripts/welcome
 
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
