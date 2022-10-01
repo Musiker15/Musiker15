@@ -22,3 +22,9 @@ If you have any Questions about my Scripts or have suggestions then feel free to
 * [[ESX] MSK WeaponAmmo | Clips, Components & Tints](https://forum.cfx.re/t/release-esx-weapon-ammunition-with-clips-components-tints/4793783)
 #### FREE
 * [[ESX] MSK Deathcounter - integrated in myMultichar](https://forum.cfx.re/t/release-esx-msk-deathcounter-integrated-in-mymultichar/4863428)
+
+---
+![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
+
+![GitHub followers](https://img.shields.io/github/followers/Musiker15?logo=github&style=for-the-badge) 
+![GitHub User's stars](https://img.shields.io/github/stars/Musiker15?logo=github&style=for-the-badge)
