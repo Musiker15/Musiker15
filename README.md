@@ -5,7 +5,7 @@ I am learning lua, javascript and python, this is what I did so far. Hope you li
 
 If you have any Questions about my Scripts or have suggestions then feel free to join my Discord :)
 
-* Debian Tutorials: https://docu.musiker15.de/
+* Debian Tutorials: https://www.musiker15.de/
 
 <a href="https://www.twitter.com/musiker15" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/musiker15?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -22,11 +22,8 @@ src="https://img.shields.io/github/followers/Musiker15?logo=github&style=for-the
 
 ## FiveM Scripts
 ### Paid
-* [[ESX] MSK Banking - Advanced Banking  with NativeUI](https://forum.cfx.re/t/esx-msk-bankingsystem-with-nativeui/4859560)
 * [[ESX] MSK Garage - Garage & Impounds](https://forum.cfx.re/t/esx-msk-garage-and-impound/5122014)
 * [[ESX] MSK Handcuffs - Realistic Handcuffs & more](https://forum.cfx.re/t/esx-msk-handcuffs-realistic-handcuffs/4885324)
-* [[ESX/QBCore] MSK Radio - Channels with password](https://forum.cfx.re/t/esx-msk-radio/5237033)
-* [[ESX/QBCore] MSK Simcard - Change your phonenumber](https://forum.cfx.re/t/release-esx-qbcore-usable-simcard/4847008)
 * [[ESX] MSK Storage - Player owned storages](https://forum.cfx.re/t/esx-msk-storage/5252155)
 * [[ESX/QBCore] MSK VehicleKeys - Unique Items Support](https://forum.cfx.re/t/esx-qbcore-msk-vehiclekeys-unique-items/5264475)
 
