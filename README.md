@@ -7,9 +7,6 @@ If you have any Questions about my Scripts or have suggestions then feel free to
 
 * Debian Tutorials: https://www.musiker15.de/
 
-<a href="https://www.twitter.com/musiker15" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/musiker15?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 <a href="https://www.github.com/Musiker15" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Musiker15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
