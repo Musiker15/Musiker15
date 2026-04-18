@@ -1,21 +1,27 @@
 # About me
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Musiker15 from Germany.
 
-I am learning lua, javascript and python, this is what I did so far. Hope you like it!
-
+I am learning lua, javascript and python, this is what I did so far. Hope you like it!  
 If you have any Questions about my Scripts or have suggestions then feel free to join my Discord :)
 
-* Debian Tutorials: https://www.musiker15.de/
+[Click here for Debian Tutorials](https://www.musiker15.de/)
 
-<a href="https://www.github.com/Musiker15" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Musiker15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.musiker15.de%2F&style=for-the-badge&link=https%3A%2F%2Fwww.musiker15.de%2F)
+![GitHub followers](https://img.shields.io/github/followers/Musiker15?style=for-the-badge&logo=github&label=Musiker15)
 
 ## MSK Scripts
 * Tebex: https://www.msk-scripts.de
 * Discord: https://discord.gg/5hHSBRHvJE
 * Documentation: https://docu.msk-scripts.de/
 
+![GitHub followers](https://img.shields.io/github/followers/MSK-Scripts?style=for-the-badge&logo=github&label=MSK-Scripts)
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
+
+## Discord Ticketbot
+![GitHub forks](https://img.shields.io/github/forks/MSK-Scripts/discord_ticketbot?style=for-the-badge&logo=github&label=Forks&link=https%3A%2F%2Fgithub.com%2FMSK-Scripts%2Fdiscord_ticketbot)
+![GitHub forks](https://img.shields.io/github/stars/MSK-Scripts/discord_ticketbot?style=for-the-badge&logo=github&label=Stars&link=https%3A%2F%2Fgithub.com%2FMSK-Scripts%2Fdiscord_ticketbot)
+![GitHub forks](https://img.shields.io/github/watchers/MSK-Scripts/discord_ticketbot?style=for-the-badge&logo=github&label=Watchers&link=https%3A%2F%2Fgithub.com%2FMSK-Scripts%2Fdiscord_ticketbot)
+
 
 ## FiveM Scripts
 ### Paid
