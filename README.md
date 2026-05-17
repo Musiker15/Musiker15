@@ -20,6 +20,16 @@ If you have any Questions about my Scripts or have suggestions then feel free to
 
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
+## Website Projekte
+Eine Übersicht aller meiner öffentlich erreichbaren Webprojekte – von persönlichen Seiten über Shop-Systeme bis hin zu nützlichen Eigenentwicklungen.
+* [www.musiker15.de](https://www.musiker15.de/) - Meine persönliche Website, aufgebaut mit Docusaurus
+* [www.msk-scripts.de](https://www.msk-scripts.de/) - FiveM-Shop für Lua-Scripts, vollständig selbst entwickelt
+* [docu.msk-scripts.de](https://docu.msk-scripts.de/) - Technische Dokumentation zu meinen Scripts, aufgebaut mit Docusaurus
+* [paste.msk-scripts.de](https://paste.msk-scripts.de/) - Selbst gehosteter Pastebin-Dienst, vollständig selbst entwickelt
+* [s.msk-scripts.de](https://s.msk-scripts.de/) - Eigener URL-Shortener, vollständig selbst entwickelt
+* [www.msk-solutions.de](https://www.msk-solutions.de/) - Webauftritt für Montageservice Kohm, vollständig selbst entwickelt
+* [komascript.musiker15.de](https://komascript.musiker15.de/) - Reine Portfolio-Übung, vollständig selbst entwickelt. Kein offizieller Auftritt – die Website steht in keinem Zusammenhang mit dem LaTeX-Paket KOMA-Script und wird auch nicht von dessen Entwicklern betrieben.
+
 ## FiveM Scripts
 ### Paid
 * [[ESX] MSK Garage - Garage & Impounds](https://forum.cfx.re/t/esx-msk-garage-and-impound/5122014)
