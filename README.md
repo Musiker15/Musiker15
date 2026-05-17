@@ -29,14 +29,3 @@ Eine Übersicht aller meiner öffentlich erreichbaren Webprojekte – von persö
 * [s.msk-scripts.de](https://s.msk-scripts.de/) - Eigener URL-Shortener, vollständig selbst entwickelt
 * [www.msk-solutions.de](https://www.msk-solutions.de/) - Webauftritt für Montageservice Kohm, vollständig selbst entwickelt
 * [komascript.musiker15.de](https://komascript.musiker15.de/) - Reine Portfolio-Übung, vollständig selbst entwickelt. Kein offizieller Auftritt – die Website steht in keinem Zusammenhang mit dem LaTeX-Paket KOMA-Script und wird auch nicht von dessen Entwicklern betrieben.
-
-## FiveM Scripts
-### Paid
-* [[ESX] MSK Garage - Garage & Impounds](https://forum.cfx.re/t/esx-msk-garage-and-impound/5122014)
-* [[ESX] MSK Handcuffs - Realistic Handcuffs & more](https://forum.cfx.re/t/esx-msk-handcuffs-realistic-handcuffs/4885324)
-* [[ESX] MSK Storage - Player owned storages](https://forum.cfx.re/t/esx-msk-storage/5252155)
-* [[ESX/QBCore] MSK VehicleKeys - Unique Items Support](https://forum.cfx.re/t/esx-qbcore-msk-vehiclekeys-unique-items/5264475)
-
-### Free
-* [Musiker15's Repositories](https://github.com/Musiker15)
-* [MSK Scripts Repositories](https://github.com/MSK-Scripts)
