@@ -1,10 +1,15 @@
 # About me
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Musiker15 from Germany.
+## Hey, I'm Moritz Kohm.
 
-I am learning lua, javascript and python, this is what I did so far. Hope you like it!  
-If you have any Questions about my Scripts or have suggestions then feel free to join my Discord :)
+I'm currently learning Lua, Python, and JavaScript — here's what I've done so far. I hope you like it!
 
-**Debian Tutorials:** https://www.musiker15.de/
+If you have any questions about my projects or suggestions, feel free to drop by my Discord or send me an email.
+
+* Personal inquiries: info@musiker15.de
+* Inquiries about FiveM scripts: info@msk-scripts.de
+* Inquiries about website projects: info@msk-solutions.de
+
+**My website:** https://www.musiker15.de/
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.musiker15.de%2F&style=for-the-badge&link=https%3A%2F%2Fwww.musiker15.de%2F)
 ![GitHub followers](https://img.shields.io/github/followers/Musiker15?style=for-the-badge&logo=github&label=Followers)
@@ -20,12 +25,15 @@ If you have any Questions about my Scripts or have suggestions then feel free to
 
 ![Discord](https://img.shields.io/discord/900394679634370640?label=MSK%20Scripts&logo=discord&style=for-the-badge)
 
-## Website Projekte
-Eine Übersicht aller meiner öffentlich erreichbaren Webprojekte – von persönlichen Seiten über Shop-Systeme bis hin zu nützlichen Eigenentwicklungen.
-* [www.musiker15.de](https://www.musiker15.de/) - Meine persönliche Website, aufgebaut mit Docusaurus
-* [www.msk-scripts.de](https://www.msk-scripts.de/) - FiveM-Shop für Lua-Scripts, vollständig selbst entwickelt
-* [docu.msk-scripts.de](https://docu.msk-scripts.de/) - Technische Dokumentation zu meinen Scripts, aufgebaut mit Docusaurus
-* [paste.msk-scripts.de](https://paste.msk-scripts.de/) - Selbst gehosteter Pastebin-Dienst, vollständig selbst entwickelt
-* [s.msk-scripts.de](https://s.msk-scripts.de/) - Eigener URL-Shortener, vollständig selbst entwickelt
-* [www.msk-solutions.de](https://www.msk-solutions.de/) - Webauftritt für Montageservice Kohm, vollständig selbst entwickelt
-* [komascript.musiker15.de](https://komascript.musiker15.de/) - Reine Portfolio-Übung, vollständig selbst entwickelt. Kein offizieller Auftritt – die Website steht in keinem Zusammenhang mit dem LaTeX-Paket KOMA-Script und wird auch nicht von dessen Entwicklern betrieben.
+## Website Projects
+An overview of all my publicly accessible web projects—from personal sites and e-commerce platforms to useful in-house developments.
+
+Please send business inquiries by email to: info@msk-solutions.de
+
+* [www.musiker15.de](https://www.musiker15.de/) - My personal website, built with Docusaurus
+* [www.msk-scripts.de](https://www.msk-scripts.de/) - FiveM shop for Lua scripts, developed entirely by me
+* [docu.msk-scripts.de](https://docu.msk-scripts.de/) - Technical documentation for my scripts, built with Docusaurus
+* [paste.msk-scripts.de](https://paste.msk-scripts.de/) - Self-hosted Pastebin service, developed entirely by me
+* [s.msk-scripts.de](https://s.msk-scripts.de/) - My own URL shortener, developed entirely by me
+* [www.msk-solutions.de](https://www.msk-solutions.de/) - Website for Montageservice Kohm, developed entirely by me
+* [komascript.musiker15.de](https://komascript.musiker15.de/) - Pure portfolio exercise, developed entirely in-house. Not an official site – the website is in no way associated with the LaTeX package KOMA-Script and is not operated by its developers.
