@@ -16,8 +16,8 @@ If you have any questions about my projects or suggestions, feel free to drop by
 
 ## MSK Scripts
 * Website: https://www.msk-scripts.de
+* Documentation: https://docu.msk-scripts.de
 * Discord: https://discord.gg/5hHSBRHvJE
-* Documentation: https://docu.msk-scripts.de/
 
 ![GitHub followers](https://img.shields.io/github/followers/MSK-Scripts?style=for-the-badge&logo=github&label=Followers)
 ![GitHub Org's stars](https://img.shields.io/github/stars/MSK-Scripts?style=for-the-badge&logo=github)
