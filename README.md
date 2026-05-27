@@ -9,7 +9,7 @@ If you have any questions about my projects or suggestions, feel free to drop by
 * Inquiries about FiveM scripts: info@msk-scripts.de
 * Inquiries about website projects: info@msk-solutions.de
 
-**My website:** https://www.musiker15.de/
+**My website:** https://www.musiker15.de
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.musiker15.de%2F&style=for-the-badge&link=https%3A%2F%2Fwww.musiker15.de%2F)
 ![GitHub followers](https://img.shields.io/github/followers/Musiker15?style=for-the-badge&logo=github&label=Followers)
@@ -30,7 +30,7 @@ An overview of all my publicly accessible web projects—from personal sites and
 
 Please send business inquiries by email to: info@msk-solutions.de
 
-* [www.musiker15.de](https://www.musiker15.de/) - My personal website, built with Docusaurus
+* [www.musiker15.de](https://www.musiker15.de/) - My personal website, developed entirely by me
 * [www.msk-scripts.de](https://www.msk-scripts.de/) - FiveM shop for Lua scripts, developed entirely by me
 * [docu.msk-scripts.de](https://docu.msk-scripts.de/) - Technical documentation for my scripts, built with Docusaurus
 * [paste.msk-scripts.de](https://paste.msk-scripts.de/) - Self-hosted Pastebin service, developed entirely by me
