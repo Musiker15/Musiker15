@@ -1,7 +1,6 @@
 # Moritz Kohm
 
-Self-employed since 2022, in two fields: software development and electrical
-installation. Most of what I write is open source.
+Self-employed since 2022: software development. Most of what I write is open source.
 
 [**Website**](https://www.musiker15.de) · [**MSK Scripts**](https://www.msk-scripts.de) · [**Discord**](https://discord.gg/5hHSBRHvJE)
 
@@ -16,24 +15,16 @@ installation. Most of what I write is open source.
 | | |
 |---|---|
 | **Software development** | Web applications, Discord bots and FiveM resources. Mostly TypeScript and React on the web, Node.js on the server, Lua for FiveM. |
-| **Montageservice Kohm** | Electrical installation work: smart home, photovoltaic mounting and general assembly. Since 2025. |
 
-Everything I run sits on Debian with Apache, set up and maintained by me. That
-is also where the tutorials come from.
+Everything I run sits on Debian with Apache, set up and maintained by me. That is also where the tutorials come from.
 
 ---
 
 ## musiker15.de
 
-My personal site is not a portfolio, it is a collection of **tutorials for
-Debian, Apache and self-hosting**, written in German while setting up my own
-servers. Every command is included, so you can follow along on your own
-machine.
+My personal site is not a portfolio, it is a collection of **tutorials for Debian, Apache and self-hosting**, written in German while setting up my own servers. Every command is included, so you can follow along on your own machine.
 
-Recent series: installing a FiveM server on Debian, txAdmin behind an Apache
-reverse proxy, and automatic FXServer artifact updates. Older ones cover
-wildcard SSL with acme.sh over IONOS DNS-01, including the pitfalls that cost
-me time.
+Recent series: installing a FiveM server on Debian, txAdmin behind an Apache reverse proxy, and automatic FXServer artifact updates. Older ones cover wildcard SSL with acme.sh over IONOS DNS-01, including the pitfalls that cost me time.
 
 [**Tutorials**](https://www.musiker15.de/de/docs) · [**News**](https://www.musiker15.de/de/news) · [**Source**](https://github.com/Musiker15/Website)
 
@@ -41,9 +32,7 @@ me time.
 
 ## MSK Scripts
 
-My brand for everything software related, and where most of the code lives:
-two Discord bots, four self-hosted web tools and around 20 free FiveM
-resources.
+My brand for everything software related, and where most of the code lives: two Discord bots, four self-hosted web tools and around 20 free FiveM resources.
 
 [**Overview**](https://github.com/MSK-Scripts) · [**Shop**](https://www.msk-scripts.de) · [**Documentation**](https://docu.msk-scripts.de)
 
@@ -68,15 +57,13 @@ All of them built and hosted by me.
 | [www.msk-solutions.de](https://www.msk-solutions.de/) | Montageservice Kohm |
 | [komascript.musiker15.de](https://komascript.musiker15.de/) | A portfolio exercise, see the note below |
 
-> **komascript.musiker15.de is unofficial.** It is not associated with the
-> LaTeX package KOMA-Script in any way and is not operated by its developers.
+> **komascript.musiker15.de is unofficial.** It is not associated with the LaTeX package KOMA-Script in any way and is not operated by its developers.
 
 ---
 
 ## Repositories here
 
-The organisation holds the maintained products. This account has the
-standalone FiveM scripts and a few side projects.
+The organisation holds the maintained products. This account has the standalone FiveM scripts and a few side projects.
 
 | Repository | What it does |
 |---|---|
@@ -94,8 +81,7 @@ standalone FiveM scripts and a few side projects.
 
 ## Contact
 
-Questions about a script, a tutorial or a bug are fastest on
-[**Discord**](https://discord.gg/5hHSBRHvJE). By email it depends on the topic:
+Questions about a script, a tutorial or a bug are fastest on [**Discord**](https://discord.gg/5hHSBRHvJE). By email it depends on the topic:
 
 | Topic | Address |
 |---|---|
