@@ -65,7 +65,7 @@ All of them built and hosted by me.
 | [forms.msk-scripts.de](https://forms.msk-scripts.de/) | Form and application platform with Discord integration |
 | [paste.msk-scripts.de](https://paste.msk-scripts.de/) | Self-hosted pastebin |
 | [s.msk-scripts.de](https://s.msk-scripts.de/) | URL shortener with statistics and QR codes |
-| [www.msk-solutions.de](https://www.msk-solutions.de/) | Montageservice Kohm, the electrical side |
+| [www.msk-solutions.de](https://www.msk-solutions.de/) | Montageservice Kohm |
 | [komascript.musiker15.de](https://komascript.musiker15.de/) | A portfolio exercise, see the note below |
 
 > **komascript.musiker15.de is unofficial.** It is not associated with the
@@ -101,4 +101,4 @@ Questions about a script, a tutorial or a bug are fastest on
 |---|---|
 | Anything personal | info@musiker15.de |
 | FiveM resources and Discord bots | info@msk-scripts.de |
-| Web projects and electrical work | info@msk-solutions.de |
+| Web projects | info@msk-solutions.de |
