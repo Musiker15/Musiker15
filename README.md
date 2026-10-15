@@ -2,7 +2,7 @@
 
 Self-employed since 2022: software development. Most of what I write is open source.
 
-[**Website**](https://www.musiker15.de) · [**MSK Scripts**](https://www.msk-scripts.de) · [**Discord**](https://discord.gg/5hHSBRHvJE)
+[**Website**](https://www.musiker15.de) · [**MSK Scripts**](https://www.msk-scripts.de) · [**OpenGewerk**](https://opengewerk.de) · [**Discord**](https://discord.gg/5hHSBRHvJE)
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.musiker15.de%2F&style=for-the-badge&link=https%3A%2F%2Fwww.musiker15.de%2F)
 ![Followers](https://img.shields.io/github/followers/Musiker15?style=for-the-badge&logo=github&label=Followers)
@@ -14,7 +14,7 @@ Self-employed since 2022: software development. Most of what I write is open sou
 
 | | |
 |---|---|
-| **Software development** | Web applications, Discord bots and FiveM resources. Mostly TypeScript and React on the web, Node.js on the server, Lua for FiveM. |
+| **Software development** | Web applications, open source business software for the trades, Discord bots and FiveM resources. Mostly TypeScript and React on the web, Node.js on the server, Lua for FiveM. |
 
 Everything I run sits on Debian with Apache, set up and maintained by me. That is also where the tutorials come from.
 
@@ -42,6 +42,29 @@ My brand for everything software related, and where most of the code lives: two 
 
 ---
 
+## OpenGewerk
+
+Self-hosted open source software for trade businesses in Germany, and where most of my time goes right now. CRM and ERP share one data model, from customer, site and installation to job, invoice and booking, so nothing has to be exported from one system into the next. It runs on your own hardware, works on the job site without a connection, and has **no pricing tiers**: what is in the repository is the full feature set, with no paid edition and no paid add-ons.
+
+Built in TypeScript throughout: NestJS and Drizzle on PostgreSQL, React and Vite for the offline-capable PWA, shipped as signed Docker images for x86_64 and ARM64. The software and its documentation are in German, because the rules it follows are German too.
+
+[**Website**](https://opengewerk.de) · [**Organisation**](https://github.com/opengewerk) · [**Discord**](https://discord.gg/NRrEvbQdxz)
+
+![OpenGewerk](https://img.shields.io/github/v/release/opengewerk/opengewerk?style=for-the-badge&label=OpenGewerk)
+![Haustechnik](https://img.shields.io/github/v/release/opengewerk/opengewerk-haustechnik?style=for-the-badge&label=Haustechnik)
+![OpenGewerk Stars](https://img.shields.io/github/stars/opengewerk?style=for-the-badge&logo=github)
+
+| Repository | What it does |
+|---|---|
+| [opengewerk](https://github.com/opengewerk/opengewerk) | The trades software: quotes, job reports signed by the customer on the device, invoices and e-invoices (XRechnung, ZUGFeRD), time tracking and electrical test reports to DIN VDE 0100-600 |
+| [opengewerk-haustechnik](https://github.com/opengewerk/opengewerk-haustechnik) | For organisations that run their own buildings: properties, rooms and installations in one model, statutory inspection duties as tracked deadlines, inspection rounds that work offline, and records that cannot be changed once signed |
+| [opengewerk-kanzlei](https://github.com/opengewerk/opengewerk-kanzlei) | A hub for tax advisors that brings all their OpenGewerk clients into one application, federated so the data stays with the client. Still in planning |
+| [opengewerk-api-spec](https://github.com/opengewerk/opengewerk-api-spec) | The API contract between the trades software and the tax advisor hub: OpenAPI, JSON schemas and conformance tests |
+
+Both applications sit on the same foundation and are licensed under AGPL-3.0, the API contract under Apache-2.0. OpenGewerk Haustechnik has priority at the moment, because a first operator is running it alongside their old system.
+
+---
+
 ## Sites I run
 
 All of them built and hosted by me.
@@ -54,6 +77,7 @@ All of them built and hosted by me.
 | [forms.msk-scripts.de](https://forms.msk-scripts.de/) | Form and application platform with Discord integration |
 | [paste.msk-scripts.de](https://paste.msk-scripts.de/) | Self-hosted pastebin |
 | [s.msk-scripts.de](https://s.msk-scripts.de/) | URL shortener with statistics and QR codes |
+| [opengewerk.de](https://opengewerk.de/) | Website of OpenGewerk, built with Astro, without cookies and without anything loaded from other servers |
 | [www.msk-solutions.de](https://www.msk-solutions.de/) | Montageservice Kohm |
 | [komascript.musiker15.de](https://komascript.musiker15.de/) | A portfolio exercise, see the note below |
 
@@ -63,17 +87,11 @@ All of them built and hosted by me.
 
 ## Repositories here
 
-The organisation holds the maintained products. This account has the standalone FiveM scripts and a few side projects.
+The maintained products live in the two organisations, [MSK Scripts](https://github.com/MSK-Scripts) and [OpenGewerk](https://github.com/opengewerk). This account keeps a few side projects; the old standalone FiveM scripts are archived.
 
 | Repository | What it does |
 |---|---|
-| [msk_secretblips](https://github.com/Musiker15/msk_secretblips) | Show and delete blips with an item (ESX, QBCore) |
-| [msk_backpack](https://github.com/Musiker15/msk_backpack) | Multiple backpack items (ESX) |
-| [msk_setplayerped](https://github.com/Musiker15/msk_setplayerped) | Change your player ped to another model, animals included |
-| [msk_parachute](https://github.com/Musiker15/msk_parachute) | Usable parachute |
-| [vehiclenames](https://github.com/Musiker15/vehiclenames) | Shows the vehicle name instead of NULL in the garage |
-| [map_blips](https://github.com/Musiker15/map_blips) | Set your own blips on the map |
-| [interiorproxies](https://github.com/Musiker15/interiorproxies) | Fixes the MLO invisibility bug |
+| [Website](https://github.com/Musiker15/Website) | Source of musiker15.de |
 | [windows-drive](https://github.com/Musiker15/windows-drive) | Proton Drive for Windows with ignore rules, so build folders stay out of the cloud |
 | [komascript-website](https://github.com/Musiker15/komascript-website) | Source of the KOMA-Script site above |
 
@@ -81,10 +99,11 @@ The organisation holds the maintained products. This account has the standalone 
 
 ## Contact
 
-Questions about a script, a tutorial or a bug are fastest on [**Discord**](https://discord.gg/5hHSBRHvJE). By email it depends on the topic:
+Questions about a script, a tutorial or a bug are fastest on [**Discord**](https://discord.gg/5hHSBRHvJE), OpenGewerk has [**its own server**](https://discord.gg/NRrEvbQdxz). By email it depends on the topic:
 
 | Topic | Address |
 |---|---|
 | Anything personal | info@musiker15.de |
 | FiveM resources and Discord bots | info@msk-scripts.de |
+| OpenGewerk | info@opengewerk.de |
 | Web projects | info@msk-solutions.de |
