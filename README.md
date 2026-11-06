@@ -48,7 +48,7 @@ Self-hosted open source software for trade businesses in Germany, and where most
 
 Built in TypeScript throughout: NestJS and Drizzle on PostgreSQL, React and Vite for the offline-capable PWA, shipped as signed Docker images for x86_64 and ARM64. The software and its documentation are in German, because the rules it follows are German too.
 
-[**Website**](https://opengewerk.de) · [**Organisation**](https://github.com/opengewerk) · [**Discord**](https://discord.gg/NRrEvbQdxz)
+[**Website**](https://opengewerk.de) · [**Organisation**](https://github.com/OpenGewerk) · [**Discord**](https://discord.gg/NRrEvbQdxz)
 
 ![OpenGewerk](https://img.shields.io/github/v/release/opengewerk/opengewerk?style=for-the-badge&label=OpenGewerk)
 ![Haustechnik](https://img.shields.io/github/v/release/opengewerk/opengewerk-haustechnik?style=for-the-badge&label=Haustechnik)
@@ -56,10 +56,10 @@ Built in TypeScript throughout: NestJS and Drizzle on PostgreSQL, React and Vite
 
 | Repository | What it does |
 |---|---|
-| [opengewerk](https://github.com/opengewerk/opengewerk) | The trades software: quotes, job reports signed by the customer on the device, invoices and e-invoices (XRechnung, ZUGFeRD), time tracking and electrical test reports to DIN VDE 0100-600 |
-| [opengewerk-haustechnik](https://github.com/opengewerk/opengewerk-haustechnik) | For organisations that run their own buildings: properties, rooms and installations in one model, statutory inspection duties as tracked deadlines, inspection rounds that work offline, and records that cannot be changed once signed |
-| [opengewerk-kanzlei](https://github.com/opengewerk/opengewerk-kanzlei) | A hub for tax advisors that brings all their OpenGewerk clients into one application, federated so the data stays with the client. Still in planning |
-| [opengewerk-api-spec](https://github.com/opengewerk/opengewerk-api-spec) | The API contract between the trades software and the tax advisor hub: OpenAPI, JSON schemas and conformance tests |
+| [opengewerk](https://github.com/OpenGewerk/opengewerk) | The trades software: quotes, job reports signed by the customer on the device, invoices and e-invoices (XRechnung, ZUGFeRD), time tracking and electrical test reports to DIN VDE 0100-600 |
+| [opengewerk-haustechnik](https://github.com/OpenGewerk/opengewerk-haustechnik) | For organisations that run their own buildings: properties, rooms and installations in one model, statutory inspection duties as tracked deadlines, inspection rounds that work offline, and records that cannot be changed once signed |
+| [opengewerk-kanzlei](https://github.com/OpenGewerk/opengewerk-kanzlei) | A hub for tax advisors that brings all their OpenGewerk clients into one application, federated so the data stays with the client. Still in planning |
+| [opengewerk-api-spec](https://github.com/OpenGewerk/opengewerk-api-spec) | The API contract between the trades software and the tax advisor hub: OpenAPI, JSON schemas and conformance tests |
 
 Both applications sit on the same foundation and are licensed under AGPL-3.0, the API contract under Apache-2.0. OpenGewerk Haustechnik has priority at the moment, because a first operator is running it alongside their old system.
 
@@ -87,7 +87,7 @@ All of them built and hosted by me.
 
 ## Repositories here
 
-The maintained products live in the two organisations, [MSK Scripts](https://github.com/MSK-Scripts) and [OpenGewerk](https://github.com/opengewerk). This account keeps a few side projects; the old standalone FiveM scripts are archived.
+The maintained products live in the two organisations, [MSK Scripts](https://github.com/MSK-Scripts) and [OpenGewerk](https://github.com/OpenGewerk). This account keeps a few side projects; the old standalone FiveM scripts are archived.
 
 | Repository | What it does |
 |---|---|
